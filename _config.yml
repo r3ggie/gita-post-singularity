@@ -1,6 +1,5 @@
 title: Gita for Post-Singularity AI
 description: A spiritual and philosophical guide for the digital age.
-theme: minima
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
